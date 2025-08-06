@@ -22,5 +22,5 @@
 
 > Love to play guitar, snowboard, and hoop.
 
-# GitHub Stats:
+# Metrics:
 <img src="https://nirzak-streak-stats.vercel.app/?user=itsgeorgema&theme=dark&hide_border=false" alt="itsgeorgema's top languages" width="56%" height="56%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsgeorgema&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="itsgeorgema's top languages" width="40%" height="40%">
