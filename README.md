@@ -2,6 +2,8 @@
 
 🎓 **Data Science @ UCSD** | 🚀 **Software Engineer Intern @ Praxie AI** | 📍 **Los Angeles ↔ San Diego**
 
+> Love to play guitar, snowboard, and hoop.
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -20,7 +22,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-> Love to play guitar, snowboard, and hoop.
+Check out my <a href="https://georgema.vercel.app">portfolio</a>!
+> Made with NextJs, Tailwind, ThreeJs, and Blender
 
 # Metrics:
 <img src="https://nirzak-streak-stats.vercel.app/?user=itsgeorgema&theme=dark&hide_border=false" alt="itsgeorgema's top languages" width="56%" height="56%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsgeorgema&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="itsgeorgema's top languages" width="40%" height="40%">
