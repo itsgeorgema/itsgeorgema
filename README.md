@@ -1,6 +1,6 @@
 # Hi, I'm George 👋
 
-🎓 **Data Science @ UCSD** | 🚀 **Software Engineer Intern @ Praxie AI** | 📍 **Los Angeles ↔ San Diego**
+🎓 **Computer Science @ UCSD** | 🚀 **Software Engineer Intern @ Praxie AI** | 📍 **Los Angeles ↔ San Diego**
 
 > Love to play guitar, snowboard, and hoop
 
