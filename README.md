@@ -23,7 +23,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 Check out my <a href="https://georgema.vercel.app">portfolio</a>!
-> Made with NextJs, Tailwind, ThreeJs, CannonJs, and Blender
+> Made with NextJs, ThreeJs, GSAP, WebGL
 
 # Metrics:
 <img src="https://nirzak-streak-stats.vercel.app/?user=itsgeorgema&theme=dark&hide_border=false" alt="itsgeorgema's top languages" width="56%" height="56%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsgeorgema&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="itsgeorgema's top languages" width="40%" height="40%">
