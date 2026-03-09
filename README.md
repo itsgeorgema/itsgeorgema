@@ -1,22 +1,29 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=40&duration=3000&color=3dd0e0&center=true&vCenter=true&width=600&lines=Hey...+I'm+Carter;Welcome+to+my+GitHub;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=40&duration=3000&color=2e6f40&center=true&vCenter=true&width=600&lines=Hi+I'm+George;Happy+you're+here!;" alt="Typing SVG"/>
     </h1>
 </div>
 
 <div align="center">
-    <h2>About Me</h2>
-<p>🎓 **Computer Science @ UCSD** | 🚀 **Software Engineer Intern @ IBM** | 📍 **Los Angeles ↔ San Diego**</p>
+    <p>
+        <strong>🎓 Computer Science @ UCSD</strong> | 
+        <strong>🔧 Software Engineer Intern @ IBM</strong> | 
+        <strong>📍 Los Angeles ↔ San Diego</strong>
+    </p>
 </div>
 
+<div align="center">
+    <p>
+        <i>I love to play guitar, snowboard, and hike</i>
+    </p>
+</div>
 
-> Love to play guitar, snowboard, and hoop
+<div align="center">
+    <p>Check out my <a href="https://georgema.vercel.app">portfolio</a>!<br></p>
+</div>
 
-
-Check out my <a href="https://georgema.vercel.app">portfolio</a>!
-> Made with NextJs, GSAP, WebGL
-
-# Metrics:
-<img src="https://nirzak-streak-stats.vercel.app/?user=itsgeorgema&theme=dark&hide_border=false" alt="itsgeorgema's top languages" width="56%" height="56%">
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+     <p>
+        <i><small>Made with NextJs, GSAP, WebGL</small></i>
+    </p>
+</div>
