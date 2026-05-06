@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-    <p><strong>Check out my <a href="https://georgema.vercel.app">portfolio</a>!<br></strong></p>
+    <p><strong>Check out my <a href="https://ggeorgema.com">portfolio</a>!<br></strong></p>
 </div>
 
 <div align="center">
